@@ -1,0 +1,8 @@
+# Core libraries for data analysis and visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Environment for running the notebook
+jupyterlab
