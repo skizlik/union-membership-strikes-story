@@ -9,6 +9,7 @@ venv/
 
 # Jupyter Notebook Artifacts
 .ipynb_checkpoints/
+.virtual_documents/
 
 # Archive Directory (explicitly ignored)
 _archive/
